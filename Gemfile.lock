@@ -1,5 +1,5 @@
 GEM
-  remote: https://rubygems.org/
+  remote: http://rubygems.org/
   specs:
     activemodel (4.1.7)
       activesupport (= 4.1.7)
@@ -51,3 +51,6 @@ DEPENDENCIES
   sinatra
   sinatra-activerecord
   sqlite3
+
+BUNDLED WITH
+   1.11.2
